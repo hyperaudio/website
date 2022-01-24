@@ -3,7 +3,7 @@ Hyperaudio Ecosystem
 
 # If editing SCSS files and managing vendor assets with Bower:
 
-Just run a local server on the root of this repo
+Just run a local server on the root of this repo:
 
     $ gem install compass
     $ npm install -g bower
